@@ -1,0 +1,37 @@
+graph TD
+    A[Introducción] --> A1[Compra de camiseta blanca]
+    A --> A2[Comparación de precios y valor emocional]
+    A2 --> A21[Adidas: 30 euros]
+    A2 --> A22[Real Madrid: 90 euros]
+    A2 --> A23[Cristiano Ronaldo: 120 euros]
+    A2 --> A24[Firmada por Cristiano Ronaldo: 300 euros]
+
+    B[Valor Emocional vs. Valor Monetario] --> B1[Irracionalidad de las emociones]
+    B --> B2[Ejemplo de Coldplay]
+    B --> B3[Memorización de eventos emocionales]
+    B3 --> B31[Cumpleaños vs. cenas cotidianas]
+
+    C[Modelo del Cerebro Triuno] --> C1[Paul McLean (1970)]
+    C1 --> C11[Cerebro Reptiliano: Supervivencia]
+    C1 --> C12[Sistema Límbico: Emociones]
+    C1 --> C13[Neocortex: Razonamiento]
+    C --> C2[Analogías]
+    C2 --> C21[Homer Simpson (reptiliano)]
+    C2 --> C22[Blancanieves (límbico)]
+    C2 --> C23[Einstein (neocortex)]
+
+    D[Decisiones de Compra y Neuromarketing] --> D1[Influencia emocional en decisiones]
+    D1 --> D11[Valor percibido (Blancanieves)]
+    D1 --> D12[Aversión a la pérdida (Einstein)]
+    D --> D2[Ejemplo del agua embotellada]
+    D2 --> D21[Emociones influyen en preferencia por agua embotellada]
+
+    E[Aplicaciones Prácticas del Neuromarketing] --> E1[Análisis sensorial del comportamiento]
+    E --> E2[Equipos avanzados para medir emociones]
+    E2 --> E21[Identificación de diseños atractivos]
+    E2 --> E22[Evaluación de campañas]
+    E --> E3[Caso de estudio: L'Oréal]
+    E3 --> E31[Impacto emocional en mujeres con problemas cutáneos]
+
+    F[Conclusión] --> F1[Influencia de las emociones en decisiones de vida]
+    F --> F2[Decisiones racionales vs. emocionales en compras]
